@@ -1,0 +1,6 @@
+{
+  "name": "SafarGo",
+  "description": "Smart Rajshahi Metropolitan Rickshaw and Auto transport management system by MEJAN featuring real-time tracking, advance booking, and digital payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
